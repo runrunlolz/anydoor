@@ -1,0 +1,19 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "about NodeJs static Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runrunlolz/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runrunlolz/anydoor/issues"
+  },
+  "homepage": "https://github.com/runrunlolz/anydoor#readme"
+}
