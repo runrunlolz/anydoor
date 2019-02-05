@@ -6,7 +6,7 @@ const argv = yargs
     .option('p', {
         alias: 'port',
         describe: '端口号',
-        default: 9527
+        default: 8080
     })
     .option('h', {
         alias: 'hostname',
